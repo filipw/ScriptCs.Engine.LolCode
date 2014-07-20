@@ -172,3 +172,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/ScriptCs.Engine.LolCode.sln.ide/*.chk
+/ScriptCs.Engine.LolCode.sln.ide/*.jrs
+/ScriptCs.Engine.LolCode.sln.ide/*.ide
